@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66f75fa6-056c-481d-8d41-4ebba440ef6e" name="Changes" comment="fixed package issue">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="66f75fa6-056c-481d-8d41-4ebba440ef6e" name="Changes" comment="test failing">
       <change beforePath="$PROJECT_DIR$/src/test/java/SuggestionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SuggestionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696510719453</updated>
-      <workItem from="1696510720704" duration="16045000" />
+      <workItem from="1696510720704" duration="16180000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -136,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697227109596</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test failing">
+      <option name="closed" value="true" />
+      <created>1697227308196</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697227308196</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +163,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="fixed package issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed package issue" />
+    <MESSAGE value="test failing" />
+    <option name="LAST_COMMIT_MESSAGE" value="test failing" />
   </component>
 </project>
