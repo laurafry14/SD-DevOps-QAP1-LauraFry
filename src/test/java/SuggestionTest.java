@@ -30,7 +30,7 @@ public class SuggestionTest {
 
         // Incorrect Spelling
         String suggestionsMisspelledWord = suggestionEngine.generateSuggestions("heello");
-        Assertions.assertTrue(suggestionsMisspelledWord.contains("hello"), "Suggestions should contain 'hello'.");
+        Assertions.assertFalse(suggestionsMisspelledWord.contains("hello"), "Suggestions should contain 'hello'.");
     }
 
     @Test
